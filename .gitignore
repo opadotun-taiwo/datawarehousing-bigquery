@@ -1,0 +1,6 @@
+terrademo/keys/
+*.json
+
+.venv
+
+yellow_tripdata_2024-*.parquet
